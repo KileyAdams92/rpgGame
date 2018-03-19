@@ -1,0 +1,12 @@
+body {
+  background: url("../images/commandCenter2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.powerRangers {
+  height: 300px;
+  width: 150x;
+}
